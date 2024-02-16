@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **java , react**
 
-- 👯 I’m looking to collaborate on **java and react**
+- 👯 I’m looking to collaborate on **java,python and react**
 
 - 📫 How to reach me **https://t.me/Theannoyingcat**
 
