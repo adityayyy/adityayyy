@@ -23,11 +23,21 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityayyy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=adityayyy&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityayyy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityayyy&theme=radical" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityayyy&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityayyy&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityayyy&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityayyy&theme=radical&utcOffset=5.5" width="48%"/>
+</p>
 ---
 
 ### ✍️ Random Dev Quote:
