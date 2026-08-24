@@ -3,7 +3,7 @@
   <div>
     <h1>Hey there! 👋</h1>
     <p>I'm <strong>Aditya</strong> — crafting code with creativity and a pinch of caffeine ☕<br />
-    A frontend enthusiast building intuitive UIs, exploring new technologies, and even diving into custom ROM development!</p>
+    building intuitive creativity, exploring new technologies, and even diving into custom ROM development!</p>
   </div>
 </div>
 
