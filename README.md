@@ -1,6 +1,5 @@
 <div align="left" style="display: flex; align-items: center;">
-  <img src="https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952t7w8ppuh6ejk80zy3mgh78mkwtbe6e8oy4bj2lkf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="120" style="margin-right: 15px;" />
-
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RjejN2bHNidXB4OGkzM2xqbTh3enBzcTl4Nzd4Zm9qd2diMXNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="300" style="margin-right: 15px;" />
   <div>
     <h1>Hey there! 👋</h1>
     <p>I'm <strong>Aditya</strong> — crafting code with creativity and a pinch of caffeine ☕<br />
